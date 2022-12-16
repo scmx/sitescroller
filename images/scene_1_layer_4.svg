@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Lager_2" data-name="Lager 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 2000.5 151.88" width="2000" height="1080">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #7a5936;
+      }
+
+      .cls-2 {
+        fill: #debf9e;
+      }
+    </style>
+  </defs>
+  <g id="Lager_1-2" data-name="Lager 1">
+    <rect class="cls-2" x=".5" width="2000" height="151.88"/>
+    <rect class="cls-1" x=".5" y="20.88" width="2000" height="4"/>
+    <rect class="cls-1" y="60.88" width="2000" height="4"/>
+    <rect class="cls-1" x=".5" y="109.88" width="2000" height="4"/>
+    <rect class="cls-1" x="428.02" y="40.49" width="49.18" height="5.02" transform="translate(121.43 354.49) rotate(-48.67)"/>
+    <rect class="cls-1" x="877.23" y="82.63" width="63.5" height="6.51" transform="translate(244.22 711.75) rotate(-48.67)"/>
+    <rect class="cls-1" x="1511.55" y="41.75" width="58.24" height="3.61" transform="translate(490.54 1171.73) rotate(-48.67)"/>
+  </g>
+</svg>

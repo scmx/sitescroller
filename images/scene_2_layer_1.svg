@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 27.1.1, SVG Export Plug-In . SVG Version: 6.00 Build 0) -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="2000" height="1080" viewBox="0 0 2000 1080" style="enable-background:new 0 0 2000 1080;" xml:space="preserve">
+	<style type="text/css">
+		.st0{display:none;}
+		.st1{display:inline;fill:#A83563;}
+		.st2{display:inline;fill:#FFA7C9;}
+		.st3{display:inline;fill:#400F54;}
+		.st4{fill:url(#SVGID_1_);}
+		.st5{display:inline;fill:none;}
+	</style>
+	<g id="palette" class="st0">
+		<rect x="954" y="-373" class="st1" width="82.5" height="82.5" />
+		<rect x="1041.25" y="-373" class="st2" width="82.5" height="82.5" />
+		<rect x="1128.5" y="-377.25" class="st3" width="82.5" height="82.5" />
+	</g>
+	<g id="_x31_">
+		<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="1000" y1="1080" x2="1000" y2="-9.094947e-13">
+			<stop offset="5.327789e-09" style="stop-color:#400F54" />
+			<stop offset="1" style="stop-color:#FFA7C9" />
+		</linearGradient>
+		<rect class="st4" width="2000" height="1080" />
+	</g>
+	<g id="_x32_" class="st0">
+		<rect x="0" y="232.12" class="st2" width="63.9" height="795.47" />
+		<rect x="63.9" y="403.9" class="st2" width="77.09" height="608.69" />
+		<rect x="262.37" y="350.83" class="st2" width="161.75" height="517.87" />
+		<rect x="117.18" y="528.67" class="st2" width="161.75" height="517.87" />
+		<rect x="397.3" y="494.72" class="st2" width="161.75" height="517.87" />
+		<rect x="669.2" y="232.84" class="st2" width="156.38" height="813.69" />
+		<rect x="636.98" y="528.67" class="st2" width="147.54" height="517.87" />
+		<rect x="1473.15" y="713.51" class="st2" width="410.05" height="366.49" />
+		<rect x="816.42" y="289.07" class="st2" width="63.9" height="790.93" />
+		<rect x="880.32" y="460.85" class="st2" width="77.09" height="608.69" />
+		<rect x="1078.8" y="407.78" class="st2" width="161.75" height="517.87" />
+		<line class="st5" x1="1095.36" y1="1080" x2="933.6" y2="1080" />
+		<rect x="933.6" y="585.62" class="st2" width="161.76" height="494.38" />
+		<rect x="1213.72" y="551.67" class="st2" width="161.75" height="517.87" />
+		<rect x="1485.63" y="289.79" class="st2" width="156.38" height="790.21" />
+		<polygon class="st2" points="1485.63,1080 1600.94,1080 1600.94,862.56 1600.94,713.51 1600.94,585.62 1485.63,585.62
+		1453.4,585.62 1453.4,862.56 1453.4,1080 1473.15,1080 	" />
+		<rect x="1779.91" y="314.49" class="st2" width="63.9" height="765.51" />
+		<rect x="1843.81" y="486.27" class="st2" width="77.09" height="593.73" />
+		<rect x="1897.1" y="611.03" class="st2" width="102.9" height="468.97" />
+		<rect y="862.56" class="st2" width="2000" height="217.44" />
+	</g>
+	<g id="_x33_" class="st0">
+		<rect y="540" class="st3" width="177.59" height="550.38" />
+		<rect x="177.59" y="658.85" class="st3" width="214.24" height="421.15" />
+		<rect x="729.22" y="622.13" class="st3" width="449.56" height="358.31" />
+		<rect x="325.68" y="745.18" class="st3" width="449.56" height="358.31" />
+		<rect x="1104.22" y="721.69" class="st3" width="449.56" height="358.31" />
+		<rect x="1859.93" y="540.5" class="st3" width="434.63" height="562.99" />
+		<rect x="1770.37" y="745.18" class="st3" width="410.05" height="358.31" />
+		<rect x="1473.15" y="873.07" class="st3" width="410.05" height="358.31" />
+		<rect y="960.9" class="st3" width="2003.93" height="119.1" />
+	</g>
+</svg>

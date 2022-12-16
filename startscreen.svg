@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Lager_2" data-name="Lager 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 2978.7 1694.08">
+  <defs>
+    <style>
+      .cls-1 {
+        letter-spacing: -.36em;
+      }
+
+      .cls-2 {
+        stroke-miterlimit: 10;
+      }
+
+      .cls-2, .cls-3, .cls-4 {
+        stroke: #fff;
+        stroke-width: 2px;
+      }
+
+      .cls-3 {
+        font-size: 150px;
+      }
+
+      .cls-3, .cls-4 {
+        font-family: LucidaConsole, 'Lucida Console';
+      }
+
+      .cls-4 {
+        font-size: 175px;
+      }
+
+      .cls-5 {
+        letter-spacing: -.37em;
+      }
+    </style>
+  </defs>
+  <g id="eyes">
+    <text class="cls-4" transform="translate(276.74 143.27)"><tspan x="0" y="0">Help Froxy find his way </tspan><tspan x="210.89" y="210">to the correct page</tspan></text>
+    <text class="cls-3" transform="translate(747.41 894.21)"><tspan x="0" y="0">jump </tspan><tspan x="0" y="360">move</tspan><tspan class="cls-5" x="361.52" y="360">	</tspan><tspan class="cls-1" x="396" y="360">	</tspan><tspan class="cls-1"><tspan x="0" y="540" xml:space="preserve">										</tspan></tspan><tspan x="0" y="720">enter </tspan></text>
+    <g>
+      <polygon class="cls-2" points="1782.42 1125.17 1714.8 1192.78 1782.42 1260.4 1782.42 1221.1 1878.87 1221.1 1878.87 1164.47 1782.42 1164.47 1782.42 1125.17"/>
+      <polygon class="cls-2" points="2154.34 1164.47 2057.89 1164.47 2057.89 1221.1 2154.34 1221.1 2154.34 1260.4 2221.96 1192.78 2154.34 1125.17 2154.34 1164.47"/>
+      <polygon class="cls-2" points="1968.38 1465.64 1900.77 1533.26 1940.06 1533.26 1940.06 1629.71 1996.7 1629.71 1996.7 1533.26 2036 1533.26 1968.38 1465.64"/>
+      <polygon class="cls-2" points="2205.53 820.05 2205.53 867.54 1731.09 867.54 1731.09 820.05 1705.34 820.05 1705.34 893.3 1705.48 893.3 1731.09 893.3 2205.53 893.3 2231.29 893.3 2231.29 867.54 2231.29 820.05 2205.53 820.05"/>
+    </g>
+  </g>
+</svg>

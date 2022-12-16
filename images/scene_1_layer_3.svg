@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Lager_2" data-name="Lager 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 2000.5 1080" width="2000" height="1080">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #b78355;
+      }
+
+      .cls-2 {
+        fill: #7a5936;
+      }
+    </style>
+  </defs>
+  <g id="Lager_3" data-name="Lager 3">
+    <path class="cls-2" d="m0,0v1080h2000.5V0H0Zm381.09,470v-163.14h135.43v163.14h-135.43Zm135.43,18.66v163.14h-135.43v-163.14h135.43Zm-151.42-181.8v163.14h-135.43v-163.14h135.43Zm-135.43,181.8h135.43v163.14h-135.43v-163.14Z"/>
+    <path class="cls-1" d="m202.17,279.72v399.22h341.85v-399.22H202.17Zm162.93,372.08h-135.43v-163.14h135.43v163.14Zm0-181.8h-135.43v-163.14h135.43v163.14Zm151.42,181.8h-135.43v-163.14h135.43v163.14Zm0-181.8h-135.43v-163.14h135.43v163.14Z"/>
+  </g>
+</svg>
